@@ -6,5 +6,6 @@ public class Dummy {
 	{
 		int g;
 		int w;
+		System.out.println("hello Sonar");
 	}
 }
